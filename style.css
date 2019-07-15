@@ -1,3 +1,8 @@
 * {
-font-size: 15px Helvetica;
+font: 17px Helvetica, Sans-Serif;
+}
+
+h1 {
+    text-align: center;
+    color: grey;
 }
